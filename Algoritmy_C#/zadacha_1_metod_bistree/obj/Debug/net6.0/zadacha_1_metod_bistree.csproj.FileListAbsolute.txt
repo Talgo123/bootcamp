@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\bin\Debug\net6.0\zadacha_1_metod_bistree.exe
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\bin\Debug\net6.0\zadacha_1_metod_bistree.deps.json
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\bin\Debug\net6.0\zadacha_1_metod_bistree.runtimeconfig.json
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\bin\Debug\net6.0\zadacha_1_metod_bistree.dll
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\bin\Debug\net6.0\zadacha_1_metod_bistree.pdb
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.AssemblyInfo.cs
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.dll
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\refint\zadacha_1_metod_bistree.dll
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.pdb
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\zadacha_1_metod_bistree.genruntimeconfig.cache
+C:\Users\MSI\Desktop\разработчик\bootcamp\Algoritmy_C#\zadacha_1_metod_bistree\obj\Debug\net6.0\ref\zadacha_1_metod_bistree.dll
